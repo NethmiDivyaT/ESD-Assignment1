@@ -2,3 +2,5 @@ Welcome to Fruit List
 
 Apple
 Orange
+Grapes
+Pineapple
