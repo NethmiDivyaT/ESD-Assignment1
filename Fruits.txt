@@ -8,3 +8,9 @@ Apple
 Orange
 Grapes
 Pineapple
+Wood apple
+water melon
+Papaya
+
+
+final fruit list
